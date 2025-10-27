@@ -24,3 +24,13 @@ For dynamic:
  ![Untitled](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--92b436f81c741b7a8c5fc94a33fee742c7e6e0cc/Untitled.png)
   
 
+## 10/27/2025 - Wrote the code for Screen Capture  
+
+Wrote some python for capturing the screen on demand at 16 fps using PyAutoGUI, 
+pixelate and sample all the pixels into an array with PIL, 
+some math and find the dominant color with numpy.
+Then send the data through the Serial Port to the Arduino.
+[rgb](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--383a2c489e3de1f26cf47dae4a084d1d6bef9ceb/rgb.py)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk3MywicHVyIjoiYmxvYl9pZCJ9fQ==--b29bf1d5e52216ccb08c201033070bbb4ecb1b66/image.png)
+  
+
