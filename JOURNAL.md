@@ -34,3 +34,13 @@ Then send the data through the Serial Port to the Arduino.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk3MywicHVyIjoiYmxvYl9pZCJ9fQ==--b29bf1d5e52216ccb08c201033070bbb4ecb1b66/image.png)
   
 
+## 10/31/2025 - Code for Arduino processing  
+
+Wrote the logic for processing the Serial data.
+
+In a nutshell, receive the serial output from python sent via COM, and send PWM analog signal to regulate the NPN transistors controlling RGB channels.
+
+Now this took a bit longer than it should as initially I wrote the code for switching logic from Dynamic to Static directly in the Arduino, but then after further planning I removed the redundant code and updated the circuit for power optimization, such that Arduino won't be connected at all during static mode. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--86cba587d3cb39c937b0479b8c0dea6c2586b453/image.png)
+  
+
