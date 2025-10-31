@@ -34,7 +34,7 @@ Then send the data through the Serial Port to the Arduino.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk3MywicHVyIjoiYmxvYl9pZCJ9fQ==--b29bf1d5e52216ccb08c201033070bbb4ecb1b66/image.png)
   
 
-## 10/31/2025 - Code for Arduino processing  
+## 10/31/2025 10 AM - Code for Arduino processing  
 
 Wrote the logic for processing the Serial data.
 
@@ -42,5 +42,18 @@ In a nutshell, receive the serial output from python sent via COM, and send PWM 
 
 Now this took a bit longer than it should as initially I wrote the code for switching logic from Dynamic to Static directly in the Arduino, but then after further planning I removed the redundant code and updated the circuit for power optimization, such that Arduino won't be connected at all during static mode. 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--86cba587d3cb39c937b0479b8c0dea6c2586b453/image.png)
+  
+
+## 10/31/2025 7 PM - Built the circuit diagram  
+
+Spent several days sketching and refining the circuit, for initially I had accounted for a normal individual LEDs and later realized I had to make do with a LED strip I found in a garage. 
+This strip had a rather complicated wiring than the one I was used to, so spent time going through its datasheets. Alongside LEDs, I also went through the datasheets of potentiometers and transistors and calculated for their rating. 
+
+Besides this, I refined (more like changed 90% of the stuff after I was done) the circuit so that it handles both modes parallelly, meaning when one mode was running, the other was turned off completely. What this means is, I found a way that allows me to bake two separate and very different circuits into a a single complex but highly efficient design. This is the part that took most of my time.
+
+The crux of this circuit is we have a 2 pull 2 throw switch to the power, where one pair of connection powers the rail of potentiometers through the LED strip, keeping one end positive and the other end ground. Then when the switch is flicked, the rail now powers the arduino and the base of the transistors and marks THE OPPOSITE side of the LED strip as positive. Since only one mode was powered at a time, this will cause no conflicts.![IMG_20240317_200618662](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--f57b6e8ceb2a821a9673278869e927ec882bebbe/IMG_20240317_200618662.jpg)![IMG_20240318_211059531](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--b30a84c545e8a214ea2bd7fa9e58e49c98abf20c/IMG_20240318_211059531.jpg)![IMG_20240430_202234486](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c2d18ecacb53058f73b7ad93e564dda768ba4f8d/IMG_20240430_202234486.png)
+
+
+[From initial (top) designs to final one [last]. A lot in between too which I don't have the photos of :(]
   
 
