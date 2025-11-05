@@ -60,3 +60,21 @@ The crux of this circuit is we have a 2 pull 2 throw switch to the power, where 
 [From initial (top) designs to final one [last]. A lot in between too which I don't have the photos of :(]
   
 
+## 11/5/2025 - Modelled the control panel for the system  
+
+- Spent time sketching what a modern looking control panel should be,
+- took measurements of my components, 
+- modelled it accordingly in blender, 
+- along with dials, 
+- and made a custom switch for the dynamic and static modes, 
+- and optimized it for 3d printing. 
+
+The control panel mainly has 3 dials to control the RGB channels during static mode, behind which in the case there is space to hold the potentiometers, and a switch to switch between static and dynamic, behind which is the 2pull-2throw switch I talked about earlier. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ4MywicHVyIjoiYmxvYl9pZCJ9fQ==--4d6761237649790a67dc9125d6bd37a4daf61c35/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--860799cfea510df422d43eadda8a7c9203af1f97/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e4deb38ca73309839b369f62ef7addf9d290e7ee/image.png)
+  
+
