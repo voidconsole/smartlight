@@ -78,3 +78,23 @@ The control panel mainly has 3 dials to control the RGB channels during static m
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e4deb38ca73309839b369f62ef7addf9d290e7ee/image.png)
   
 
+## 11/7/2025 - Assembled the components  
+
+The final coming together of everything.
+- printed the model of control panel
+- tested code arduino
+- set-up basic components
+- did modular testing of entire system
+- wired and rewired several times getting the circuit right
+- optimized final design and setup for performance and power
+- setup the system onto the desktop
+
+
+![IMG_20240318_211059531](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE4NywicHVyIjoiYmxvYl9pZCJ9fQ==--85e0dc95b3424d7f8611642ec5cff6d4ab651820/IMG_20240318_211059531.jpg)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--41facd9cc11e0988631e88d993938fd332743503/image.png)
+![IMG_20240417_135735397](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--aef9fe387a9c3b54d057051baccf0e92d0c7bbb6/IMG_20240417_135735397.jpg)
+![IMG_20240418_205437428](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--097e423cd925a76e02b6b535fd1cc7d88c8021f3/IMG_20240418_205437428.jpg)
+
+
+  
+
