@@ -98,3 +98,16 @@ The final coming together of everything.
 
   
 
+## 11/8/2025 - Enjoy the show  
+
+Well grabbed some popcorn and watched the magic happen. 
+Was so magical I just stood there staring at it till daylight.
+And everyday since, my productivity has been sky rocketed (albeit I get lost sometimes in the immersive lights)
+Worth every minute of working on it. 
+
+Witness this magic [here](https://drive.google.com/file/d/1np3EQjLebY_Mm3-UL3ZrG9hHnZ7uVCqg/view?usp=sharing).
+
+![Instagram story - 3 (1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--1c1651945caac243835744a2a64deb732d7ed3cd/Instagram%20story%20-%203%20(1).png)
+
+  
+
