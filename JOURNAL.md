@@ -98,7 +98,7 @@ The final coming together of everything.
 
   
 
-## 11/8/2025 - Enjoy the show  
+## 11/8/2025 1 AM - Enjoy the show  
 
 Well grabbed some popcorn and watched the magic happen. 
 Was so magical I just stood there staring at it till daylight.
@@ -110,4 +110,16 @@ Witness this magic [here](https://drive.google.com/file/d/1np3EQjLebY_Mm3-UL3ZrG
 ![Instagram story - 3 (1)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--1c1651945caac243835744a2a64deb732d7ed3cd/Instagram%20story%20-%203%20(1).png)
 
   
+
+## 11/8/2025 7 PM - Enjoy the show  
+
+Well grabbed some popcorn and watched the magic happen. 
+Was so magical I just stood there staring at it till daylight.
+And everyday since, my productivity has been sky rocketed (albeit I get lost sometimes in the immersive lights)
+Worth every minute of working on it. 
+
+Witness this magic [here](https://drive.google.com/file/d/1np3EQjLebY_Mm3-UL3ZrG9hHnZ7uVCqg/view?usp=sharing).
+![magic](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--1c1651945caac243835744a2a64deb732d7ed3cd/Instagram%20story%20-%203%20(1).png)
+
+Or also [here, locally](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--b4b544de07433a7f0bbb0dbb2cc4dd5bf8f9147f/newrgb.mp4).  
 
