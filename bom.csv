@@ -1,9 +1,11 @@
 Item,Quantity,Price (Rs)
-Arduino Uno,1,2200
+Arduino Uno,1,2100
 Jumper Cables,1,350
 Breadboard,1,350
-3D Printer Filament,250
+3D Printer Filament,,250
 Potentiometers,3,400
+NPN Transistors,3,300
+Power Adapter,1,250
 LED Strips (RGB 5050),3,600
 Switches & Other Components,,500
-Total,,4650
+Total,,5100
