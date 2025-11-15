@@ -1,13 +1,13 @@
-# 🎨 Dual-Mode Dynamic RGB Lighting System
+# Dual-Mode Dynamic RGB Lighting System
 
 A smart RGB lighting setup that can operate in **two modes**;
 **Static**, for manual color control, and **Dynamic**, for screen-adaptive lighting that mirrors your display in real-time.
 
 It’s a blend of hardware engineering, circuit logic, Python automation, and a touch of design aesthetics; all powered by Arduino and 3D-printed precision.
 
----
+<br>
 
-## ✨ Overview
+## Overview
 
 This system allows you to switch between **two distinct operating modes** using a **2-Pole 2-Throw (2P2T)** switch:
 
@@ -16,17 +16,18 @@ This system allows you to switch between **two distinct operating modes** using 
 
 The two modes are **mutually exclusive**; only one is powered at any given time; which ensures efficient power usage and prevents circuit conflicts.
 
----
+<br>
 
-## 🎥 Demo
+## Demo
 
-Watch the magic:
-👉 [Google Drive Video](https://drive.google.com/file/d/1np3EQjLebY_Mm3-UL3ZrG9hHnZ7uVCqg/view?usp=sharing)
-👉 [Local Clip](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--b4b544de07433a7f0bbb0dbb2cc4dd5bf8f9147f/newrgb.mp4)
+Watch the magic: (with audio please :)
 
----
+https://github.com/user-attachments/assets/77e02d70-a3d1-4c4b-9277-59fa5aef3f31
 
-## 🧩 How It Works
+
+<br>
+
+## How It Works
 
 ### **Static Mode**
 
@@ -42,9 +43,9 @@ Watch the magic:
 * These RGB values are sent over **Serial (COM)** to the Arduino.
 * The Arduino receives the values and outputs PWM signals to the same transistors controlling the LED strip; creating real-time adaptive ambient lighting.
 
----
+<br>
 
-## ⚡ Hardware Architecture
+## Hardware Architecture
 
 | Component                | Purpose                                                  |
 | ------------------------ | -------------------------------------------------------- |
@@ -62,9 +63,9 @@ Watch the magic:
 * In **Dynamic Mode**, power is rerouted to the Arduino and transistor bases.
 * Only one circuit path is live at a time; making the setup power-efficient and electrically safe.
 
----
+<br>
 
-## 🖥️ Software Architecture
+## Software Architecture
 
 ### **Python Script** (`rgb.py`)
 
@@ -79,9 +80,9 @@ Watch the magic:
 * Parses the data and converts it into PWM output on three pins.
 * Each PWM channel controls the base of a transistor connected to the respective RGB channel of the LED strip.
 
----
+<br>
 
-## 🧱 3D-Printed Control Panel
+## 3D-Printed Control Panel
 
 Designed and modeled in **Blender**, the control panel houses:
 
@@ -92,36 +93,42 @@ Designed and modeled in **Blender**, the control panel houses:
 The model was optimized for 3D printing with internal supports and ergonomic spacing for wiring.
 It gives the system a polished, modern look; like a professional lighting console.
 
----
+<br>
 
-## 🧪 Testing & Optimization
+## The crux
+<img width="6973" height="2216" alt="IMG_20240430_202234486 (1)" src="https://github.com/user-attachments/assets/7eef11eb-275e-4952-8352-f427d773f426" />
+<br>
+
+## Testing & Optimization
 
 * Verified analog and serial data flow independently before full integration.
 * Conducted modular testing for each circuit branch.
 * Iteratively rewired for minimal voltage drop and maximum power efficiency.
 * Final configuration allows seamless mode switching without rebooting or interference.
 
----
+<br>
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Hardware:** Arduino Uno, NPN Transistors, RGB LED Strip, Potentiometers, 2P2T Switch
 **Software:** Python (PyAutoGUI, PIL, NumPy), Arduino C++
 **Design:** Blender (for enclosure modeling and 3D printing)
 
----
+<br>
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Add wireless control via ESP8266 for smart integration.
 * Implement color transition smoothing for cinematic effects.
 * Introduce multi-zone ambient lighting across displays.
 
----
+<br>
 
-## 💡 Author
+## Author
 
 **Satwik Bhusanur**
-Inventor • Developer • Designer
-[GitHub](https://github.com/voidconsole) • [LinkedIn](https://linkedin.com/in/satwikbhusanur)
+
+Inventor | Developer | Designer
+
+[GitHub](https://github.com/voidconsole) | [LinkedIn](https://linkedin.com/in/satwikbhusanur)
